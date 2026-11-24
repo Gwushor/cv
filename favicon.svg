@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="NM">
+  <rect width="64" height="64" fill="#F3EDE0"/>
+  <g fill="none" stroke="#FF3E8F" stroke-width="7" stroke-linecap="square" transform="translate(-2.4 -2.4)">
+    <path d="M14 47 V17 L26 47 V17"/>
+  </g>
+  <g fill="none" stroke="#1E1B18" stroke-width="7" stroke-linecap="square">
+    <path d="M14 47 V17 L26 47 V17"/>
+    <path d="M36 47 V17 L44 36 L52 17 V47"/>
+  </g>
+  <rect x="1" y="1" width="62" height="62" fill="none" stroke="#1E1B18" stroke-width="2"/>
+</svg>
